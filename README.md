@@ -1,3 +1,3 @@
 # WebApps-F21-Assignment-3
 Assignment 3 - Basic HTML
-Hosted At: https://jdaleske13.github.io/assignment2-daleske/
+Hosted At: https://44-563-webapps-f21.github.io/webapps-f21-assignment-3-jdaleske13/
